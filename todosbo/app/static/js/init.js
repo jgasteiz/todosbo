@@ -1,0 +1,2 @@
+
+$(function(){ TODOSBO.App.start() });
